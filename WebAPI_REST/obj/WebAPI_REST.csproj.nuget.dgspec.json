@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\Projectes_Practiques\\WebAPI_REST\\WebAPI_REST\\WebAPI_REST.csproj": {}
+    "C:\\Users\\Jordi\\source\\repos\\poc_angular\\WebAPI_REST\\WebAPI_REST.csproj": {}
   },
   "projects": {
-    "J:\\Projectes_Practiques\\WebAPI_REST\\WebAPI_REST\\WebAPI_REST.csproj": {
+    "C:\\Users\\Jordi\\source\\repos\\poc_angular\\WebAPI_REST\\WebAPI_REST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\Projectes_Practiques\\WebAPI_REST\\WebAPI_REST\\WebAPI_REST.csproj",
+        "projectUniqueName": "C:\\Users\\Jordi\\source\\repos\\poc_angular\\WebAPI_REST\\WebAPI_REST.csproj",
         "projectName": "WebAPI_REST",
-        "projectPath": "J:\\Projectes_Practiques\\WebAPI_REST\\WebAPI_REST\\WebAPI_REST.csproj",
+        "projectPath": "C:\\Users\\Jordi\\source\\repos\\poc_angular\\WebAPI_REST\\WebAPI_REST.csproj",
         "packagesPath": "C:\\Users\\Jordi\\.nuget\\packages\\",
-        "outputPath": "J:\\Projectes_Practiques\\WebAPI_REST\\WebAPI_REST\\obj\\",
+        "outputPath": "C:\\Users\\Jordi\\source\\repos\\poc_angular\\WebAPI_REST\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "J:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.4.0, )"
             }
           },
           "imports": [
